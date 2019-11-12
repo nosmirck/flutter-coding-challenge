@@ -47,13 +47,8 @@ To get started, clone this repo to your local machine.  Build the app against th
 
 # Submission
 
-To submit your coding challenge, commit all your changes to the master branch and run the following command:
-
-```
-git bundle create coding-challenge.bundle HEAD master
-```
-
-Email the the generated coding-challenge.bundle file to engineering@recipeunlimited.com. We do our best to review and respond to submissions within 1-2 business days.
+To submit your coding challenge, create a pull request and to submit it to this repo.
+Please also email engineering@recipeunlimited.com to let us know that you have completed the challenge. We do our best to review and respond to submissions within 1-2 business days.
 
 Thanks for taking the time to do this coding challenge and here's hoping we talk soon!
 
